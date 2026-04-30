@@ -1,6 +1,7 @@
 ## Hi There👋
 ### im Gofret u can call me Wafer 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,cpp,mongodb,discord)](https://skillicons.dev)
+
 
 - 🔭 I’m currently working on A Discord Bot And A Website(private repo)
 - 🌱 I’m currently learning C++
