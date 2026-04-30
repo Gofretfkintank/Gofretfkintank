@@ -1,6 +1,6 @@
 # Hi There! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> I'm Gofret (Wafer)
 
-👨‍🍳 **Professional Chef** | 💻 **Discord Bot Developer** | 🏎️ **League Founder** Mixing ingredients in the kitchen and lines of code in the editor.
+👨‍🍳 **Professional Chef** | 💻 **Discord Bot Developer** Cooking up delicious food and clean code.
 
 ---
 
@@ -8,9 +8,9 @@
 * 🌍 Based in **Türkiye**
 * 🔪 Working as a **Professional Chef**
 * 💻 Developing **[OM-Bot](http://Github.com/gofretfkintank/OM-Bot)** and other JS projects
-* 🧠 Currently diving deep into **C++**
-* 💬 Ask me about **Cooking, Discord.js, or Sim-Racing**
-* 🏁 Founder of **Madcar25 / Olzhasstik Motorsports**
+* 🧠 Currently learning **C++**
+* 🏎️ **Sim-Racing Enthusiast** (F1 & GT3)
+* 💬 Ask me about **Cooking, Discord.js, or Racing Scenarios**
 
 ---
 
